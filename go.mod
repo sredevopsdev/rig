@@ -10,7 +10,7 @@ require (
 	github.com/bufbuild/connect-grpcreflect-go v1.0.0
 	github.com/coreos/go-oidc/v3 v3.6.0
 	github.com/distribution/distribution/v3 v3.0.0-20230601133803-97b1d649c493
-	github.com/docker/docker v24.0.2+incompatible
+	github.com/docker/docker v24.0.7+incompatible
 	github.com/docker/go-connections v0.4.0
 	github.com/google/uuid v1.3.0
 	github.com/lucasepe/codename v0.2.0
