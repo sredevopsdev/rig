@@ -31,7 +31,7 @@ require (
 	go.uber.org/fx v1.19.3
 	go.uber.org/zap v1.25.0
 	go4.org v0.0.0-20230225012048-214862532bf5
-	golang.org/x/crypto v0.11.0
+	golang.org/x/crypto v0.17.0
 	golang.org/x/exp v0.0.0-20230522175609-2e198f4a06a1
 	golang.org/x/oauth2 v0.8.0
 	golang.org/x/sync v0.3.0
@@ -162,7 +162,7 @@ require (
 	github.com/yvasiyarov/newrelic_platform_go v0.0.0-20160601141957-9c099fbc30e9 // indirect
 	go.opencensus.io v0.24.0 // indirect
 	golang.org/x/mod v0.11.0 // indirect
-	golang.org/x/term v0.11.0 // indirect
+	golang.org/x/term v0.15.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
 	golang.org/x/tools v0.10.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
@@ -215,8 +215,8 @@ require (
 	go.uber.org/dig v1.17.0
 	go.uber.org/multierr v1.11.0 // indirect
 	golang.org/x/net v0.13.0
-	golang.org/x/sys v0.11.0 // indirect
-	golang.org/x/text v0.12.0 // indirect
+	golang.org/x/sys v0.15.0 // indirect
+	golang.org/x/text v0.14.0 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1
 	k8s.io/utils v0.0.0-20230505201702-9f6742963106
