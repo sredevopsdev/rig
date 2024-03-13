@@ -37,7 +37,7 @@ require (
 	golang.org/x/sync v0.3.0
 	google.golang.org/api v0.122.0
 	google.golang.org/grpc v1.55.0
-	google.golang.org/protobuf v1.31.0
+	google.golang.org/protobuf v1.33.0
 	inet.af/tcpproxy v0.0.0-20221017015627-91f861402626
 	k8s.io/api v0.28.1
 	k8s.io/apimachinery v0.28.1
